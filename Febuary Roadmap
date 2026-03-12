@@ -1,0 +1,52 @@
+# 🗓️ February: Web Exploitation
+---
+
+## 🛡️ Week 1: Web Basics + First Exploits
+**Focus**
+-  **HTTP/HTTPS:** Requests & responses
+-  **Data Handling:** Cookies, sessions, parameters
+-  **Foundations:** Intro to web vulnerabilities
+
+**Attacks**
+- Basic XSS (Cross-Site Scripting)
+- Parameter tampering
+
+**Tools**
+- Browser DevTools
+- Burp Suite (Proxy, Repeater)
+
+---
+
+## 💉 Week 2: SQL Injection & Input Validation
+**Focus**
+-  **Error-based SQLi**
+-  **Union-based SQLi**
+-  **Blind SQLi** concepts
+
+**Tools**
+- Burp Repeater
+- `sqlmap` (controlled use)
+
+---
+
+## 🚀 Week 3: XSS, File Upload & Command Injection
+**Focus**
+-  **XSS:** Stored vs. Reflected
+-  **File Upload:** Bypasses and restrictions
+-  **RCE:** OS command injection
+
+**Tools**
+- Burp Suite
+- Browser DevTools
+
+---
+
+## 🔗 Week 4: Auth, Access Control & Exploit Chaining
+**Focus**
+-  **Broken Authentication**
+-  **IDOR** (Insecure Direct Object Reference)
+-  **Session Manipulation**
+-  **Chaining:** Combining multiple vulnerabilities
+
+
+---
